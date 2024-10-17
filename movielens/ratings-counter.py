@@ -18,3 +18,6 @@ import codecs
 sys.stdout = codecs.getwriter('utf-8')(sys.stdout.buffer, 'strict')
 
 print("Kaviyarasu 😎")
+
+#Bala's 1st commit
+print("Bala")
